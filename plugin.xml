@@ -40,6 +40,7 @@
 
         <header-file src="src/ios/CDVOrientation.h" />
         <source-file src="src/ios/CDVOrientation.m" />
+        <dependency id="es6-promise-plugin" url="https://github.com/vstirbu/PromisesPlugin.git"/>
 
     </platform>
 
